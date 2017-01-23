@@ -13,14 +13,13 @@ fhsdkfskhfsdkjfhskdjhfskjhfksfhksjhfksjhkfhd
     <li>telescope light shield</li>
     <li>anti-gravity speakers</li>
 </ul>
-<<<<<<< Updated upstream
-=======
+
+
  
-=======
- 
+
 
 
  This is a branch that I am working on 
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
->>>>>>> Stashed changes
+
